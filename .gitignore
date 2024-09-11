@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+
+# Archivos de base de datos
+# *.db
+# *.db-shm
+# *.db-wal
+
+# Archivos de configuración
+.env
+
+# Archivos de registro
+*.log
+last_synced_id.txt
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración del entorno de desarrollo
+.idea/
+.vscode/
